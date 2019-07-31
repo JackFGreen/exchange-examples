@@ -1,0 +1,6 @@
+[submodule "submodules/exchange-ui"]
+	path = submodules/exchange-ui
+	url = git@github.com:JackFGreen/exchange-ui.git
+[submodule "submodules/exchange-lib"]
+	path = submodules/exchange-lib
+	url = git@github.com:JackFGreen/exchange-lib.git
